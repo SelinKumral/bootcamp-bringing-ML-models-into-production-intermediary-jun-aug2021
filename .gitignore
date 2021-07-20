@@ -133,3 +133,8 @@ dmypy.json
 
 # vscode artifacts
 .vscode
+
+.python_packages
+
+batch-data/
+config.json
