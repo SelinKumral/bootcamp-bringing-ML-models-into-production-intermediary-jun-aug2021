@@ -137,4 +137,10 @@ dmypy.json
 .python_packages
 
 batch-data/
+# Azurite artifacts
+__blobstorage__
+__queuestorage__
+__azurite_db*
+
+# config
 config.json
