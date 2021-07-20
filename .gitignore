@@ -144,3 +144,5 @@ __azurite_db*
 
 # config
 config.json
+
+outputs/
